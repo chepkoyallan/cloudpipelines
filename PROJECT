@@ -1,0 +1,6 @@
+domain: zoracloud.ai
+layout:
+- go.kubebuilder.io/v3
+projectName: cloudpipelines
+repo: github.com/zoracloud/cloudpipelines
+version: "3"
