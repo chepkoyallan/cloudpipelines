@@ -1,0 +1,6 @@
+apiVersion: pipeline.zoracloud.ai/v1
+kind: Pipeline
+metadata:
+  name: pipeline-sample
+spec:
+  # TODO(user): Add fields here
